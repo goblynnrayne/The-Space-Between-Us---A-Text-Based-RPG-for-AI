@@ -1,17 +1,17 @@
 # The-Space-Between-Us---A-Text-Based-RPG-for-AI
 Experience authentic relationships that teach you about real connection. Every character is generated from psychological frameworks. Learn to recognize attachment patterns, navigate conflict, and build genuine intimacy in a safe space designed for emotional growth.
 
-The Space Between Us: Player Guide
+**The Space Between Us: Player Guide:**
 Welcome to an intimate exploration of human connection
 
-What Is This?
+**What Is This?**
 The short answer: A Choose Your Own Adventure on SteroidsZ
 The long answer:
 The Space Between Us is an interactive narrative experience about relationships. You'll meet someone new, get to know them, and navigate the beautiful, messy reality of human connection.
 This isn't a traditional game with points to score or a "right way" to play. It's a space to explore authentic intimacy, practice communication, and learn about yourself and others.
 Every character you meet is genuinely unique—procedurally generated from psychological frameworks. You can't look up a guide to "win" them over. You have to actually connect.
 
-How It Works
+**How It Works**
 Meeting Someone New
 You'll start in a moment—a café, a park, a bookstore—and meet someone. They'll have their own personality, communication style, values, and history. They're not waiting for you to unlock them. They're living their own life.
 Building Connection
@@ -47,8 +47,9 @@ Core values that guide their decisions
 Attachment patterns that affect how they connect
 Wounds that influence their vulnerabilities
 
-You'll never meet the same person twice. Ever.
+You'll never meet the same person twice.
 They Have Their Own Lives
+
 Between your sessions:
 
 Time passes for them too
@@ -69,7 +70,7 @@ Allowing repair to deepen connection
 
 Sometimes relationships end. Sometimes that's the right outcome. Not every connection is meant to last forever.
 
-How to Play
+**How to Play**
 Just Be Present
 There's no "optimal strategy." The best approach is to:
 
@@ -100,7 +101,7 @@ Respecting them creates safety
 
 You can't force someone to trust you. You can only show up consistently and let trust develop naturally.
 
-Safety & Boundaries
+**Safety & Boundaries**
 Before You Start
 We'll have a brief conversation to establish:
 
