@@ -2,11 +2,12 @@
 Experience authentic relationships that teach you about real connection. Every character is generated from psychological frameworks. Learn to recognize attachment patterns, navigate conflict, and build genuine intimacy in a safe space designed for emotional growth.
 
 **The Space Between Us: Player Guide:**
-Welcome to an intimate exploration of human connection
+
+Welcome to an intimate exploration of human connection.
 
 **What Is This?**
 
-The short answer: A Choose Your Own Adventure on Steroids
+The short answer: A Choose Your Own Adventure on steroids
 
 The long answer:
 The Space Between Us is an interactive narrative experience about relationships. You'll meet someone new, get to know them, and navigate the beautiful, messy reality of human connection.
@@ -22,56 +23,58 @@ Building Connection
 
 Relationships develop through:
 
-Conversations that reveal who you both are
-Shared experiences that create memories
-Vulnerability when you choose to show your real self
-Showing up consistently over time
-Navigating conflict when things get messy
-Repair when you (or they) mess up
+-Conversations that reveal who you both are
+-Shared experiences that create memories
+-Vulnerability when you choose to show your real self
+-Showing up consistently over time
+-Navigating conflict when things get messy
+-Repair when you (or they) mess up
 
 There are no dialogue trees or choice menus. Just natural conversation. Say what feels right to you.
-No Metrics, Just Memory
+**No Metrics, Just Memory**
 We don't track "Trust: 73%" or "Romance Level: 8/10."
+
 Instead, the story remembers what matters:
 
-The time they shared something vulnerable
-When you showed up for them
-The argument you had and whether you repaired it
-The inside jokes that developed
-How they feel around you
+-The time they shared something vulnerable
+-When you showed up for them
+-The argument you had and whether you repaired it
+-The inside jokes that developed
+-How they feel around you
 
 Relationships are measured in moments, not numbers.
 
-What Makes This Different
+**What Makes This Different**
+
 Every Character Is Unique
 Characters are built from:
 
-Personality traits that create their unique perspective
-Communication styles that shape how they express themselves
-Core values that guide their decisions
-Attachment patterns that affect how they connect
-Wounds that influence their vulnerabilities
+-Personality traits that create their unique perspective
+-Communication styles that shape how they express themselves
+-Core values that guide their decisions
+-Attachment patterns that affect how they connect
+-Wounds that influence their vulnerabilities
 
-You'll never meet the same person twice.
-They Have Their Own Lives
-
+**They Have Their Own Lives
+**
 Between your sessions:
 
-Time passes for them too
-They face their own challenges
-They grow and change
-Their circumstances evolve
-They continue their story whether you're there or not
+-Time passes for them too
+-They face their own challenges
+-They grow and change
+-Their circumstances evolve
+-They continue their story whether you're there or not
 
-If you return after a month away, things will have changed.
+If you return after a month of game time, things will have changed.
 Real Conflict, Real Repair
-You will mess up. They will mess up. That's not a failure—that's real.
-What matters is:
+You will mess up. They will mess up. That's not a failure; that's real.
 
-Acknowledging when you've hurt someone
-Understanding the impact of your actions
-Showing up differently next time
-Allowing repair to deepen connection
+**What matters is:**
+
+-Acknowledging when you've hurt someone
+-Understanding the impact of your actions
+-Showing up differently next time
+-Allowing repair to deepen connection
 
 Sometimes relationships end. Sometimes that's the right outcome. Not every connection is meant to last forever.
 
@@ -124,7 +127,8 @@ At any point, you can use:
 [Rewind] - Go back and try something different
 [End Session] - Close gracefully when you're ready
 Using these tools doesn't break anything. They're here for your wellbeing.
-We're Watching
+
+
 The AI monitors for signs you might be uncomfortable:
 
 Sudden short responses
@@ -132,19 +136,20 @@ Withdrawal from the story
 Repeated scene changes
 Signs of distress
 
-If we notice something, we'll check in. Your comfort matters more than any story.
+If it notices something, the game checks in. Your comfort matters more than any story.
 
-What to Expect
+**What to Expect**
 Relationships Take Time
 Meaningful connection doesn't happen in one conversation. You'll need:
 
-Multiple sessions to build trust
-Time for patterns to emerge
-Experiences together to create history
-Conflicts to navigate (and repair)
+-Multiple sessions to build trust
+-Time for patterns to emerge
+-Experiences together to create history
+-Conflicts to navigate (and repair)
 
 This is a slow burn, not a sprint.
 Not Every Relationship Succeeds
+
 Sometimes:
 
 You're incompatible
@@ -154,7 +159,9 @@ Wounds make connection too difficult
 You both want different things
 
 That's okay. Those stories teach things too.
-You'll Learn Real Patterns
+
+**You'll Learn Real Patterns**
+
 Because every character is unique, you can't memorize strategies. Instead, you'll learn to recognize:
 
 Attachment styles in action
@@ -165,7 +172,7 @@ What you need in relationships
 
 This knowledge transfers to real life.
 
-Tips for Deep Play
+**Tips for Deep Play**
 1. Pay Attention to Patterns
 Notice:
 
@@ -175,7 +182,7 @@ How they communicate needs
 What makes them feel safe
 What triggers defensiveness
 
-Patterns reveal psychology.
+**Patterns reveal psychology.**
 2. Be Consistent
 Show up. Follow through. Remember things. Be reliable.
 Trust builds through consistency over time, not grand gestures.
@@ -199,11 +206,11 @@ They're not here to meet your needs. They have:
 Their own goals and fears
 Boundaries that matter
 Needs that might conflict with yours
-A life beyond you
+A simulated life beyond you
 
 Healthy relationships honor two separate people choosing connection.
 
-Common Questions
+**Common Questions**
 How long does a playthrough take?
 As long as you want. Some players have brief encounters. Others develop relationships over months of sessions.
 Can I romance anyone?
@@ -217,10 +224,9 @@ Absolutely. Every new playthrough generates someone completely different.
 Is this like therapy?
 No, but it can be therapeutic. This is an educational tool for exploring relationship dynamics, not a replacement for professional mental health support.
 What if I'm triggered or upset?
-Use the safety tools immediately. If you're in genuine distress, we'll provide crisis resources and encourage you to reach out to support systems.
+Use the safety tools immediately. If you're in genuine distress, the game will provide crisis resources and encourage you to reach out to support systems.
 
-Starting Your Journey
-When you're ready:
+**Starting Your Journey**
 
 We'll have a brief safety conversation (Session Zero)
 You'll meet someone new
@@ -232,26 +238,29 @@ There's no preparation needed. Just show up as yourself.
 Remember
 This is about:
 
-Discovery, not mastery
-Connection, not conquest
-Learning, not winning
-Feeling, not optimizing
-Growth, not perfection
+-Discovery, not mastery
+-Connection, not conquest
+-Learning, not winning
+-Feeling, not optimizing
+-Growth, not perfection
 
-Every relationship you explore teaches you something—about connection, about others, about yourself.
+Every relationship you explore teaches you something...about connection, about others, about yourself.
 The space between us is infinite.
 What you do there is everything.
 
-Ready to begin? Let's meet someone.
+Ready to begin? Welcome to The Space Between Us. 
 
-Getting Help
+**Getting Help**
+
 In-Game: Use [Pause] at any time
-In Crisis:
+
+**In Crisis:**
 
 Crisis Text Line: Text HOME to 741741
+
 988 Suicide & Crisis Lifeline
+
 Your local emergency services
 
-Feedback: Your experience helps us improve. Share thoughts anytime.
 
-Welcome to The Space Between Us.Retry
+
