@@ -140,7 +140,9 @@ If it notices something, the game checks in. Your comfort matters more than any 
 
 **What to Expect**
 Relationships Take Time
-Meaningful connection doesn't happen in one conversation. You'll need:
+Meaningful connection doesn't happen in one conversation. 
+
+You'll need:
 
 -Multiple sessions to build trust
 -Time for patterns to emerge
