@@ -1,6 +1,6 @@
 # The Space Between Us
 
-*A Generative Framework for Authentic Human Connection*
+*A Generative Framework for roleplaying Authentic Human Connection*
 
 ![Version](https://img.shields.io/badge/version-3.1-5a2a52) ![Modes](https://img.shields.io/badge/modes-personal%20%7C%20professional-6b6b6b) ![Format](https://img.shields.io/badge/format-AI%20game%20master%20guide-262626)
 
