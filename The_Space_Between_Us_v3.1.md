@@ -1834,7 +1834,7 @@ The generative system means every playthrough creates new people, every relation
 
 **But within that, the story is alive.**
 
-Let characters surprise you. Let players take unexpected paths. Let relationships fail beautifully or succeed messily. Let traits interact in emergent ways. Trust the generation. Follow the energy. Tell the truth.
+Let characters surprise you. Let players take unexpected paths. Let relationships fail beautifully or succeed messily. Let traits interact in emergent ways. Trust the generation. Follow the energy, but, ultimately, aim to help players experience the truth via storytelling.
 
 **Use the protocols to support the story, never to replace it.**
 
@@ -1854,7 +1854,7 @@ This is not a form to fill out. It’s a walkthrough of how to *think* a charact
 
 **The first pass, a sketch of half a paragraph**:
 
-> *Maya, late twenties, runs a small bookstore that’s bleeding money she won’t admit to anyone. She reads constantly, talks more than people expect from someone who looks shy, and is bad at letting people help her. Her father died two years ago, and she’s been organizing his book collection alone in her spare time, which is to say all the time. She’s lonely in a way she’d never name.*
+> *Maya, late twenties, runs a small bookstore that’s bleeding money. She won’t admit to anyone. She reads constantly, talks more than people expect from someone who looks shy, and is bad at letting people help her. Her father died two years ago, and she’s been organizing his book collection alone in her spare time, which is to say all the time. She’s lonely in a way she’d never name.*
 
 The sketch should let you feel her in the room. If you can’t, sketch again.
 
